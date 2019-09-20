@@ -1,8 +1,7 @@
-# DikhaoIndia
-Development for DikhaoIndia
-
+# D3 Candlesticks
+OHLC testing with D3
 
 # Test Environment
-.net, C#, HTML5, AngularJS, JS, MSSQL
+nodejs, d3, HTML, css
 
 # For Testing Purpose Only
